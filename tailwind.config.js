@@ -4,12 +4,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#742581',
+        primary: "#00629B",
+        secondary: "#002855",
       },
       backgroundImage: {
-        'gradient-to-transparent': 'linear-gradient(to right, #742581, transparent)',
+        "gradient-to-transparent":
+          "linear-gradient(to right, #742581, transparent)",
       },
     },
   },
   plugins: [],
-}
+};
