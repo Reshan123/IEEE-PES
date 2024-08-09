@@ -3,7 +3,9 @@ import Profile from "../assets/profile.jpg";
 import Yasodas from "../assets/Yasodas.jpg";
 import Imethma from "../assets/Imethma_Kariyawasam.jpg"
 import Owadi from "../assets/Owadi.jpg";
-import Nisuni from "../assets/Nisuni.JPG"
+import Nisuni from "../assets/Nisuni.JPG";
+import Chairperson_current from "../assets/chairperson_current.jpg";
+import Secretary from "../assets/secretary_current.jpg";
 
 export default function Team() {
     return (
@@ -118,7 +120,7 @@ export default function Team() {
             <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
               <a href="https://www.linkedin.com/in/yashodha-athapattu-883228235/">
                 <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Yasodas} alt="Hotel Photo" />
+                  <img src={Chairperson_current} alt="Hotel Photo" />
                 </div>
 
                 <div class="mt-1 p-2">
@@ -135,7 +137,7 @@ export default function Team() {
             <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
               <a href="https://www.linkedin.com/in/imethmakariyawasam">
                 <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Imethma} alt="Hotel Photo" />
+                  <img src={Profile} alt="Hotel Photo" />
                 </div>
 
                 <div class="mt-1 p-2">
@@ -152,7 +154,7 @@ export default function Team() {
             <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
               <a href="http://www.linkedin.com/in/owadibandara">
                 <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Owadi} alt="Hotel Photo" />
+                  <img src={Secretary} alt="Hotel Photo" />
                 </div>
 
                 <div class="mt-1 p-2">

@@ -6,7 +6,7 @@ export default function About() {
       <section class="pb-10 bg-white">
         <div class="container mx-auto px-4">
           <div class="flex flex-col items-center justify-center space-y-8">
-            <h2 class="text-4xl font-bold text-center text-secondary">
+            <h2 class="text-4xl font-bold text-center text-secondary pt-4">
               Who are we?
             </h2>
             <p class="text-gray-600 text-md text-center max-w-2xl">
