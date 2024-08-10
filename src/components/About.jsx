@@ -11,7 +11,7 @@ export default function About() {
             </h2>
             <p class="text-gray-600 text-md text-center max-w-2xl">
               {" "}
-              We are the IEEE Power & Energy Society at SLIIIT, a community
+              We are the IEEE Power & Energy Society at SLIIIT, A community
               build to deliver events, programs, and publications, bringing
               together power and electrical engineers at every phase for
               conversation and collaboration. IEEE PES empowers, develops, and

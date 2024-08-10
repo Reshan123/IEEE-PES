@@ -1,9 +1,5 @@
 import React from "react";
 import Profile from "../assets/profile.jpg";
-import Yasodas from "../assets/Yasodas.jpg";
-import Imethma from "../assets/Imethma_Kariyawasam.jpg"
-import Owadi from "../assets/Owadi.jpg";
-import Nisuni from "../assets/Nisuni.JPG";
 import Chairperson_current from "../assets/chairperson_current.jpg";
 import Secretary from "../assets/secretary_current.jpg";
 
@@ -71,39 +67,6 @@ export default function Team() {
               </a>
             </article>
 
-            {/* <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
-              <a href="#">
-                <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Profile} alt="Hotel Photo" />
-                </div>
-
-                <div class="mt-1 p-2">
-                  <h2 class="text-gray-900 font-semibold text-lg">
-                    Oshini Wickrama
-                  </h2>
-                  <p class="text-primary mt-1 text-md font-semibold ">
-                    Treasurer
-                  </p>
-                </div>
-              </a>
-            </article>
-
-            <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
-              <a href="#">
-                <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Profile} alt="Hotel Photo" />
-                </div>
-
-                <div class="mt-1 p-2">
-                  <h2 class="text-gray-900 font-semibold text-lg">
-                    Shavidini Ekanayake
-                  </h2>
-                  <p class="text-primary mt-1 text-md font-semibold ">
-                    Webmaster
-                  </p>
-                </div>
-              </a>
-            </article> */}
           </div>
 
           <h1 class="mb-8 text-center font-sans text-4xl font-bold text-secondary">
