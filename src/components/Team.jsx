@@ -2,6 +2,8 @@ import React from "react";
 import Profile from "../assets/profile.jpg";
 import Chairperson_current from "../assets/chairperson_current.jpg";
 import Secretary from "../assets/secretary_current.jpg";
+import Kajansika from '../assets/Kajansika Sivaloganathan-sec.jpg'
+import Venuja from '../assets/Venuja Sevinda-treasurer.jpg'
 
 export default function Team() {
     return (
@@ -36,7 +38,7 @@ export default function Team() {
             <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
               <a href="#">
                 <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Profile} alt="Hotel Photo" />
+                  <img src={Venuja} alt="Hotel Photo" />
                 </div>
 
                 <div class="mt-1 p-2">
@@ -53,7 +55,7 @@ export default function Team() {
             <article class="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl hover:scale-110 transform translate duration-300">
               <a href="#">
                 <div class="relative flex items-end overflow-hidden rounded-xl">
-                  <img src={Profile} alt="Hotel Photo" />
+                  <img src={Kajansika} alt="Hotel Photo" />
                 </div>
 
                 <div class="mt-1 p-2">
